@@ -3,6 +3,9 @@
 
 NagarSamadhan is a modern, anonymous, and AI-powered civic reporting web application that empowers citizens to report urban infrastructure issues (like potholes, garbage, or water leaks) instantly. With zero friction—no login or passwords required—citizens get a unique Ticket ID and QR code to track the live progress of their complaints.
 
+## 🔗 Live Demo
+https://asmikatke.github.io/NagarSamadhan/
+
 ## 🚀 Key Features
 
 ### 👤 Citizen Portal
